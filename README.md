@@ -13,8 +13,8 @@ It covers the assessment requirements end-to-end:
 ## Timeline / Estimated time to complete (actual)
 **Completed within 1 day**
 
-- **Started:** Tomorrow at **10:00 PM**
-- **Completed:** Today at **11:00 PM**
+- **Started:** Tomorrow Dec 30, 2025 at **10:00 PM**
+- **Completed:** Today Dec 31, 2025 at **11:00 PM**
 - Includes regular routine breaks (sleep + food breaks).
 
 > In active working time, this was roughly a “one-day sprint” focused on correctness, data isolation, and clean integration.
@@ -155,10 +155,15 @@ If this were production-grade (multi-user, high traffic), I would evolve it like
 Create a file named .env.local in the project root and add the following variables:Shopify_Development_Store_URL=""
 
 Shopify_Admin_GraphQL_API_Access_Token=""
+
 Klaviyo_Public_API_Key="RN7x7i"
+
 Klaviyo_Private_API_Key=""
+
 ASSESSMENT_USERNAME=""
+
 SHOPIFY_API_VERSION="2024-10"
+
 KLAVIYO_PROFILE_EMAIL=""
 
 
