@@ -156,7 +156,7 @@ Create a file named .env.local in the project root and add the following variabl
 
 Shopify_Admin_GraphQL_API_Access_Token=""
 
-Klaviyo_Public_API_Key="RN7x7i"
+Klaviyo_Public_API_Key=""
 
 Klaviyo_Private_API_Key=""
 
